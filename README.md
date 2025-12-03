@@ -1,4 +1,5 @@
-│ **MyShout Component:** Allows users to add a personalized shout-out directly on their profile page. 
+**MyShout Component for the OSSN:** 
+Allows users to add a personalized shout-out directly on their profile page. 
 Easily editable via account settings, it offers a custom space for expressing thoughts or status updates,
 styled elegantly to integrate with your OSSN theme.
 
